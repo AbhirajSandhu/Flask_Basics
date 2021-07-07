@@ -1,0 +1,1 @@
+# Flask Static Tutorial
