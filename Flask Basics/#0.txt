@@ -3,4 +3,7 @@ cd D:\Study\Flask_Tut
 python tut1.py
 ctrl + f5
 
+pip uninstall virtualenv
+pip install virtualenv
+
 virualenv ven
