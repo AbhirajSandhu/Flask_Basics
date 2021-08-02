@@ -7,3 +7,5 @@ pip uninstall virtualenv
 pip install virtualenv
 
 virualenv ven
+
+ven\Scripts\activate
